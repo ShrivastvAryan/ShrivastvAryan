@@ -21,6 +21,7 @@
 
 ### **Frontend**  
 <br/>  
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=000)  
@@ -33,6 +34,7 @@
 
 ### **Backend**  
 <br/>  
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=fff)  
 ![Express.js](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)  
@@ -42,6 +44,7 @@
 
 ### **Other Skills**  
 <br/>  
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)  
 ![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=fff)  
@@ -50,7 +53,7 @@
 
 </div>  
 
-<br/>  
+<br/>
 
 ---
 
@@ -59,12 +62,14 @@
 <div align="center">  
 
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrivastvAryan&show_icons=true&theme=radical)  
+
 <br/>  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrivastvAryan&layout=compact&theme=radical)  
 
 </div>  
 
-<br/>  
+<br/>
 
 ---
 
@@ -76,6 +81,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/aryanshrivastava290605/)  
 
 </div>  
+
+<br/>
 
 ---
 
