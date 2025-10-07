@@ -1,89 +1,123 @@
-# 👋 Hey, I’m Aryan Shrivastava  
+<div id="header" align="center">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<h1>
+Hey there! I'm [Aryan Shrivastava
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<p align="center">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-profile/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="https://www.google.com/search?q=https://twitter.com/your-twitter-handle">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/>
+</a>
+<a href="mailto:youremail@example.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+</p>
+</div>
 
-💻 **Full Stack Developer** | 🤖 Exploring Machine Learning | 📚 DSA in C++  
+:man_technologist: About Me
+I'm a passionate Full Stack Developer with a love for building scalable and efficient web applications. I thrive on solving complex problems and turning ideas into reality through code. Currently, I'm diving deep into the world of Machine Learning and sharpening my problem-solving skills with Data Structures and Algorithms in C++.
 
----
+🔭 I’m currently working on a cool project using the MERN stack.
 
-## 🚀 About Me  
-- 👀 Passionate about **building scalable apps** & **learning emerging tech**  
-- 🌱 Currently exploring **Machine Learning** & solving **DSA problems in C++**  
-- 💡 Open to collaborate on **Full Stack, AI/ML, and Open Source projects**  
-- 😄 Pronouns: **He/Designer**  
-- 📫 Reach me: **[reachtoaryan29@gmail.com](mailto:reachtoaryan29@gmail.com)**  
+🌱 I’m currently learning Machine Learning and Advanced C++ for DSA.
 
-<br/>
+👯 I’m looking to collaborate on open-source projects related to web development or ML.
 
----
+🤔 I’m looking for help with understanding complex ML algorithms.
 
-## 🛠️ Tech Stack  
+💬 Ask me about React, Node.js, Express, and MongoDB.
 
-<div align="center">  
+📫 How to reach me: reachtoaryan29@example.com
 
-### **Frontend**  
-<br/>  
+😄 Pronouns: He/Him (or your pronouns)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=000)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)  
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=000)  
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff)  
+🚀 Tech Stack
+Here are some of the technologies I work with:
 
-<br/>  
+<p align="left">
+<strong>Frontend:</strong>
 
-### **Backend**  
-<br/>  
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=fff)  
-![Express.js](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=fff)  
 
-<br/>  
 
-### **Other Skills**  
-<br/>  
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</a>
+</p>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)  
-![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=fff)  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=fff)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)  
+<p align="left">
+<strong>Backend:</strong>
 
-</div>  
 
-<br/>
 
----
 
-## 📊 GitHub Stats  
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+</p>
 
-<div align="center">  
+<p align="left">
+<strong>Languages & Tools:</strong>
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrivastvAryan&show_icons=true&theme=radical)  
 
-<br/>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrivastvAryan&layout=compact&theme=radical)  
 
-</div>  
+<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+</p>
 
-<br/>
+🧠 Currently Learning
+<p align="left">
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="40" height="40"/>
+</a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+</a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+<img src="https://www.google.com/search?q=https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+</a>
+</p>
 
----
+📊 GitHub Stats
+<p align="center">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26locale%3Den%26theme%3Dtokyonight" alt="your-github-username" />
+</p>
+<p align="center">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dyour-github-username%26layout%3Dcompact%26langs_count%3D8%26theme%3Dtokyonight" />
+</p>
 
-## 🌐 Connect With Me  
-
-<div align="center">  
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:reachtoaryan29@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/aryanshrivastava290605/)  
-
-</div>  
-
-<br/>
-
----
-
-✨ _“Code. Learn. Innovate. Repeat.”_ ✨  
+<p align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dyour-github-username%26label%3DProfile%2520views%26color%3D0e75b6%26style%3Dflat" alt="your-github-username" />
+</p>
