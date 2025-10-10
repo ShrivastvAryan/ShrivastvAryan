@@ -8,8 +8,8 @@
 - 👀 Passionate about **building scalable apps** & **learning emerging tech**  
 - 🌱 Currently exploring **Machine Learning** & solving **DSA problems in C++**  
 - 💡 Open to collaborate on **Full Stack, AI/ML, and Open Source projects**  
-- 😄 Pronouns: **He/Designer**  
-- 📫 Reach me: **[asguy29@gmail.com](mailto:reachtoaryan29@gmail.com)**  
+- 😄 Pronouns: **Dev**  
+- 📫 Reach me: **[reachtoaryan29@gmail.com](mailto:reachtoaryan29@gmail.com)**  
 
 ---
 
