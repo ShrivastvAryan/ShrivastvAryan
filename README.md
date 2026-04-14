@@ -1,15 +1,16 @@
-# 👋 Hey, I’m Aryan Shrivastava  
+# 👋 Hey, I’m Aryan Shrivastava
 
-💻 **Full Stack Developer** | 🤖 Exploring Machine Learning | 📚 DSA in C++  
+💻 **Full Stack Developer building scalable web applications with Next.js, TypeScript, and Node.js | Skilled in Web3 frontend systems and API integrations | Currently learning AI/ML**
 
 ---
 
 ### 🚀 About Me
-- 👀 Passionate about **building scalable apps** & **learning emerging tech**  
-- 🌱 Currently exploring **Machine Learning** & solving **DSA problems in C++**  
-- 💡 Open to collaborate on **Full Stack, AI/ML, and Open Source projects**  
-- 😄 Pronouns: **Dev**  
-- 📫 Reach me: **[reachtoaryan29@gmail.com](mailto:reachtoaryan29@gmail.com)**  
+
+- 💻 Strong in Full Stack Development with modern web technologies  
+- 🔗 Experienced in building Web3 frontend systems with seamless API integrations  
+- 🤖 Currently learning AI/ML and expanding problem-solving skills  
+- ⚡ Passionate about building scalable, user-focused products  
+- 📫 Reach me: **[reachtoaryan29@gmail.com](mailto:reachtoaryan29@gmail.com)**
 
 ---
 
