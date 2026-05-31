@@ -10,7 +10,7 @@
 - 🔗 Experienced in building Web3 frontend systems with seamless API integrations  
 - 🤖 Currently learning AI/ML and expanding problem-solving skills  
 - ⚡ Passionate about building scalable, user-focused products  
-- 📫 Reach me: **[reachtoaryan29@gmail.com](mailto:me@aryanshrivastava.dev)**
+- 📫 Reach me: **[me@aryanshrivastava.dev](mailto:me@aryanshrivastava.dev)**
 
 ---
 
