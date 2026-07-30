@@ -8,7 +8,7 @@
 
 - 💻 Strong in Full Stack Development with modern web technologies  
 - 🔗 Experienced in building Web3 frontend systems with seamless API integrations  
-- 🤖 Currently learning AI/ML and expanding problem-solving skills  
+- 🤖 Currently learning Scalable System Integrations with Backend Technologies  
 - ⚡ Passionate about building scalable, user-focused products  
 - 📫 Reach me: **[me@aryanshrivastava.dev](mailto:me@aryanshrivastava.dev)**
 
